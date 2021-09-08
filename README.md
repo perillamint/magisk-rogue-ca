@@ -9,6 +9,10 @@ the user has to install the certificate in /system partiton.
 
 This tool makes those tasks easy to use, easy to set up.
 
+It is recommended to use this project with [MagiskFrida](https://github.com/ViRb3/magisk-frida/releases)
+and [frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning),
+which will help you to unpin the certificate from the app.
+
 ## How to use
 
 Run following commands
